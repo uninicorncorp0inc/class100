@@ -1,0 +1,10 @@
+body{
+    
+    
+    background-image: linear-gradient(#18ffff, rgb(238, 0, 255), rgb(0, 157, 255)) ;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
